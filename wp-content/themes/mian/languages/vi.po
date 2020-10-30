@@ -1,0 +1,126 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: amiana\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: vi\n"
+"X-Generator: Poedit 2.2.1\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c\n"
+
+msgid "Video loading"
+msgstr "Video đang tải"
+
+msgid "Check-in Date"
+msgstr "Ngày Check-in"
+
+msgid "Check-out Date"
+msgstr "Ngày Check-out"
+
+msgid "Room"
+msgstr "Phòng"
+
+msgid "Adult"
+msgstr "Người lớn"
+
+msgid "Children"
+msgstr "Trẻ em"
+
+msgid "SEARCH MY DATE"
+msgstr "TÌM KIẾM NGÀY"
+
+msgid "Book now to have the best rates*"
+msgstr "Đặt ngay để có giá tốt nhất*"
+
+msgid "Discover More"
+msgstr "Khám phá thêm"
+
+msgid "View detail"
+msgstr "Xem chi tiết"
+
+msgid "BOOK NOW"
+msgstr "Đặt ngay"
+
+msgid "Read more"
+msgstr "Xem thêm"
+
+msgid "Try it now!"
+msgstr "Thử ngay!"
+
+msgid "Write Us a Message"
+msgstr "Để lại lời nhắn"
+
+msgid "First Name"
+msgstr "Họ"
+
+msgid "Last Name"
+msgstr "Tên"
+
+msgid "Phone Number"
+msgstr "Số điện thoại"
+
+msgid "How many person?"
+msgstr "Số lượng người?"
+
+msgid "Message"
+msgstr "Tin nhắn"
+
+msgid "Submit"
+msgstr "Gửi"
+
+msgid "Turtle Bay, Phạm Văn Đồng, Nha Trang, Việt Nam"
+msgstr "Turtle Bay, Phạm Văn Đồng, Nha Trang, Việt Nam"
+
+msgid "Copyright © 2018 Amiana. All rights reserved"
+msgstr "Copyright © 2018 Amiana. All rights reserved"
+
+msgid "Explore More"
+msgstr "Khám phá thêm"
+
+msgid "Load More"
+msgstr "Xem thêm"
+
+msgid "Contact Us"
+msgstr "Liên hệ"
+
+msgid "Valid to"
+msgstr "Có giá trị đến ngày"
+
+msgid "Exclusive Offers"
+msgstr "Khuyến mãi"
+
+msgid "Share this offer on"
+msgstr "Chia sẻ"
+
+msgid "Photos"
+msgstr "Hình ảnh"
+
+msgid "Videos"
+msgstr "Videos"
+
+msgid "Gallery"
+msgstr "Thư viện"
+
+msgid "You might interested in"
+msgstr "Bạn có thể quan tâm"
+
+msgid "Follow us on:"
+msgstr "Theo dõi chúng tôi:"
+
+msgid "Accommodation"
+msgstr "Loại Phòng"
+
+msgid "Destination"
+msgstr "Điểm Đến"
+
+msgid "News and Awards"
+msgstr "Tin Tức & Giải Thưởng"
+
+msgid "Related News"
+msgstr "Tin tức liên quan"
