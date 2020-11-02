@@ -33,6 +33,7 @@ wp_reset_query();
                             $wNameLocation = array();
                             $loop->the_post();
                             $file_detail = get_field("file_detail");
+                            $end_day = get_field("end_day");
                             $terms = wp_get_post_terms(get_the_ID(), "wlocation");
                             $applyto[] = get_the_title();
                             foreach ($terms as $key => $value) {
@@ -53,6 +54,9 @@ wp_reset_query();
                                     <?php the_title() ?>
                                 </div>
                                 <div class="career-location"><?php _e("Nơi làm việc", "mian") ?>: <span class="slocation"><?php echo implode(", ", $wNameLocation); ?></span></div>
+                                <?php if(!empty($end_day)):?>
+                                    <div class="end-day"><?php _e('[:vi]Ngày kết thúc: [:][:en]End day: [:] ','mian') ?> <?php _e($end_day); ?></div>
+                                <?php endif; ?>
                                 <div class="summaries">
                                     <?php the_content() ?>
                                 </div>

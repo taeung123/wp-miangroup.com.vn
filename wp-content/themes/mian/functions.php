@@ -649,7 +649,7 @@ function single_social_sharing()
     <div class="social-sharing">
         <ul>
             <li class="title">
-                <?php echo 'Chia sẻ: '; ?>
+                <?php _e('[:vi]Chia sẻ: [:][:en]Share: [:]', 'mian'); ?>
             </li>
             <li><a class="share-facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=<?php the_permalink(); ?>"><img src="/wp-content/themes/mian/images/fb_icon.png" alt=""></a></li>
             <li><a class="share-linkedin" target="_blank" href="https://www.linkedin.com/sharing/share-offsite/?url=<?php the_permalink(); ?>"><img src="/wp-content/themes/mian/images/linkedin_icon.png" alt=""></a></li>
